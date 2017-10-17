@@ -1,7 +1,7 @@
-c7b9293befa55fd5af4fa6cb66dd9461 *DESCRIPTION
+62fafe331b4bef5e7029c266dedcbb64 *DESCRIPTION
 e17dda9a31bff8e6fe4991c962c05bdb *NAMESPACE
-76fc2b208319c18dbc48d5c09bd783e4 *R/FimsUtils.R
-f9068a31a7152b9982fb4cf7e33debb4 *README.md
+0c2070b2f15eeb58a2bde108139ba14e *R/FimsUtils.R
+879fd52e2624ee8de0f7bd2d0b3adfd0 *README.md
 45020fee75509d3f4c40ef4d4a6ea4fc *man/listExpeditions.Rd
 ed351724bdc409b1e518bdf0c13758f7 *man/listMarkers.Rd
 c1048201dd30ddea580e7813b7fbc53b *man/queryFasta.Rd
