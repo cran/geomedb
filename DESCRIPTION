@@ -1,8 +1,8 @@
 Package: geomedb
 Type: Package
 Title: Functions for Fetching 'GeOMe-db' Data
-Version: 2.0.0
-Date: 2019-08-08
+Version: 2.0.1
+Date: 2020-06-26
 Authors@R: c(person("RJ", "Ewing", email = "rj@rjewing.com",
                   role = c("aut", "cre")), 
                   person("Eric", "Crandall", email = "eric.d.crandall@gmail.com",
@@ -16,13 +16,13 @@ BugReports: https://github.com/biocodellc/fimsR-access/issues
 License: GPL-3
 LazyData: TRUE
 Encoding: UTF-8
-Imports: ape, httr, jsonlite, data.table
+Imports: ape, httr, jsonlite
 Depends: utils
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2019-08-28 20:17:30 UTC; rjewing
+Packaged: 2020-07-02 18:06:35 UTC; rjewing
 Author: RJ Ewing [aut, cre],
   Eric Crandall [aut]
 Maintainer: RJ Ewing <rj@rjewing.com>
 Repository: CRAN
-Date/Publication: 2019-08-28 23:30:02 UTC
+Date/Publication: 2020-07-15 13:30:16 UTC
